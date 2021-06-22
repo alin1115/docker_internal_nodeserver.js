@@ -1,3 +1,2 @@
 # events-app-internal
-NPM install 
-NPM start 
+Internal app which will run after npm install and npm start 
